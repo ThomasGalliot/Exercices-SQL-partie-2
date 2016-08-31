@@ -12,8 +12,23 @@ Le nom des colonnes doit être présent dans la requête.
 
 Insérer dans la table **spectacles** les données suivantes :
 
-- Truth About Love Tour, Pink, Musique, Variété pop internationale, 10/10/2016, 21h00, 2h30, 25,5
-- Kean, Cie « Les scènes de l’Oise », Théâtre, Drame, 25/02/2017, 20H30, 2H00,10, 4
+- Intitulé : Truth About Love Tour
+- Artiste : Pink
+- Type : Musique
+- Genre : Variété pop internationale
+- Date : 10/10/2016
+- Heure : 21h00
+- Durée : 2h30
+- ID de la salle : 5
+
+- Intitulé : Kean
+- Artiste : Cie « Les scènes de l’Oise »
+- Type : Théâtre
+- Genre : Drame
+- Date : 25/02/2017
+- Heure : 20H30
+- Durée : 2h00
+- ID de la salle : 4
 
 Le nom des colonnes doit être présent dans la requête.
 
@@ -33,7 +48,7 @@ Insérer les données de spectacles.csv dans la table **spectacles**
 
 ##Exercice 7
 
-Exécuter le script spectacles.sql
+Exécuter le script reservations.sql
 
 ##Exercice 8
 
