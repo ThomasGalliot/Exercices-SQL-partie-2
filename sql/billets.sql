@@ -3,7 +3,7 @@ CREATE TABLE billets (
   type VARCHAR(45) NOT NULL,
   prix VARCHAR(45) NOT NULL,
   reservations_id INT NOT NULL,
-  PRIMARY KEY id
+  PRIMARY KEY (id)
 )
 ENGINE=INNODB;
 
