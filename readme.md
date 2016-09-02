@@ -34,7 +34,7 @@ Le nom des colonnes doit être présent dans la requête.
 
 ##Exercice 3
 
-Insérer 3 salles dans la table **salles**. La salle 1 a 45 sièges disponibles, la salle 2 en a 50, la salle 3 en a 55, la salle 4 en a 60 et la salle 5 en a 65.
+Insérer 5 salles dans la table **salles**. La salle 1 a 45 sièges disponibles, la salle 2 en a 50, la salle 3 en a 55, la salle 4 en a 60 et la salle 5 en a 65.
 
 Le nom des colonnes ne doit pas apparaître dans la requête.
 
