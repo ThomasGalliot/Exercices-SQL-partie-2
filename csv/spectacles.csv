@@ -1,8 +1,8 @@
 id;intitule;artiste;type;genre;date;heure;duree;salles_id
-3;Origines;Baptiste Lecapelain;One Man Show;Humour;09/10/16;17H00;02H00;3
-4;L’attrape-coeur;Christophe Maé;Concert;Folk;05/05/17;20H00;02H30;4
-5;Le fascinateur;Messmer;One Man Show;Hypnose;09/03/17;20H00;02H00;2
-6;Hard Candy;Madonna;Concert;Variété Pop Internationnale;02/12/18;17H00;02H30;1
-7;Femme Fatale Tour;Britney Spears;Concert;Variété Pop Internationnale;10/10/16;21H00;02H00;5
-8;Berceuse;Rondoudou;Concert;Variété Pop Japonnaise;06/05/17;19H00;02H00;2
-9;Je t’ai rencontré par hasard;Pietragalla & Derouault;Danse;Contemporaine;10/03/17;18H00;02H45;4
+3;Origines;Baptiste Lecapelain;One Man Show;Humour;09/10/16;17:00;02:00;3
+4;L’attrape-coeur;Christophe Maé;Concert;Folk;05/05/17;20:00;02:30;4
+5;Le fascinateur;Messmer;One Man Show;Hypnose;09/03/17;20:00;02:00;2
+6;Hard Candy;Madonna;Concert;Variété Pop Internationnale;02/12/18;17:00;02:30;1
+7;Femme Fatale Tour;Britney Spears;Concert;Variété Pop Internationnale;10/10/16;21:00;02:00;5
+8;Berceuse;Rondoudou;Concert;Variété Pop Japonnaise;06/05/17;19:00;02:00;2
+9;Je t’ai rencontré par hasard;Pietragalla & Derouault;Danse;Contemporaine;10/03/17;18:00;02:45;4
