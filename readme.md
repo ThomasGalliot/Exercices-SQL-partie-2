@@ -46,10 +46,10 @@ Insérer les données de clients.csv dans la table **clients**.
 
 Insérer les données de spectacles.csv dans la table **spectacles**
 
-##Exercice 7
+##Exercice 6
 
 Exécuter le script reservations.sql
 
-##Exercice 8
+##Exercice 7
 
 Exécuter le script billets.sql
