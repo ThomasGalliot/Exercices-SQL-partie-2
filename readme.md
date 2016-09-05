@@ -1,4 +1,4 @@
-#SQL - Partie 2
+#SQL - Partie 2 : Insertion des données
 
 Dans tous les exercices, la base de données à utiliser est **colysee**. Tous les fichiers csv et sql sont fournis.
 
