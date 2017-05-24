@@ -45,7 +45,7 @@ Supprimer la table **ide**
 Créer la base **codex**. Y créer une table **clients** qui aura comme colonnes :
 
 | Colonnes          | Type    | Attributs                     |
-| :---------------: |: -----: | :---------------------------: |
+|-------------------|---------|-------------------------------|
 | id                | INT     | Auto-incrémenté, clé primaire |
 | lastName          | VARCHAR |                               |
 | firstName         | VARCHAR |                               |
