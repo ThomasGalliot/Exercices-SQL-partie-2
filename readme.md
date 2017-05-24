@@ -1,4 +1,4 @@
-# SQL - Partie 2 : Insertion des données
+# SQL - Partie 2 : Création de tables
 
 **Attention : Toutes les commandes que vous taperez devront être conservées dans un fichier .sql**
 
