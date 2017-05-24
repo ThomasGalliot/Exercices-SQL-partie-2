@@ -1,55 +1,56 @@
 #SQL - Partie 2 : Insertion des données
 
-Dans tous les exercices, la base de données à utiliser est **colysee**. Tous les fichiers csv et sql sont fournis.
+**Attention : Toutes les commandes que vous taperez devront être conservées dans un fichier .sql**
 
 ##Exercice 1
-
-Insérer dans la table **clients** Juliette Masson qui a une carte de fidélité et qui a une réduction de 0,5.
-
-Le nom des colonnes doit être présent dans la requête.
+Dans la base de données **webDevelopment**, créer la table **languages** avec les colonnes :
+- **id** (type **INT**, auto-incrémenté, clé primaire)
+- **language** (type **VARCHAR**)
 
 ##Exercice 2
-
-Insérer dans la table **spectacles** les données suivantes :
-
-- Intitulé : Truth About Love Tour
-- Artiste : Pink
-- Type : Musique
-- Genre : Variété pop internationale
-- Date : 10/10/2016
-- Heure : 21h00
-- Durée : 2h30
-- ID de la salle : 5
-
-- Intitulé : Kean
-- Artiste : Cie « Les scènes de l’Oise »
-- Type : Théâtre
-- Genre : Drame
-- Date : 25/02/2017
-- Heure : 20H30
-- Durée : 2h00
-- ID de la salle : 4
-
-Le nom des colonnes doit être présent dans la requête.
+Dans la base de données **webDevelopment**, créer la table **tools** avec les colonnes suivantes :
+- **id** (type **INT**, auto-incrémenté, clé primaire)
+- **tool** (type **VARCHAR**)
 
 ##Exercice 3
-
-Insérer 5 salles dans la table **salles**. La salle 1 a 45 sièges disponibles, la salle 2 en a 50, la salle 3 en a 55, la salle 4 en a 60 et la salle 5 en a 65.
-
-Le nom des colonnes ne doit pas apparaître dans la requête.
+Dans la base de données **webDevelopment**, créer la table **frameworks** avec les colonnes suivantes :
+- **id** (type **INT**, auto-incrémenté, clé primaire)
+- **name** (type **VARCHAR**)
 
 ##Exercice 4
-
-Insérer les données de clients.csv dans la table **clients**.
+Dans la base de données **webDevelopment**, créer la table **librairies** avec les colonnes suivantes :
+- **id** (type **INT**, auto-incrémenté, clé primaire)
+- **librairy** (type **VARCHAR**)
 
 ##Exercice 5
-
-Insérer les données de spectacles.csv dans la table **spectacles**
+Dans la base de données **webDevelopment**, créer la table **ide** avec les colonnes suivantes :
+- **id** (type **INT**, auto-incrémenté, clé primaire)
+- **ideName** (type **VARCHAR**)
 
 ##Exercice 6
-
-Exécuter le script reservations.sql
+Dans la base de données **webDevelopment**, créer, si elle n'existe pas, la table **frameworks** avec les colonnes suivantes :
+- **id** (type **INT**, auto-incrémenté, clé primaire)
+- **name** (type **VARCHAR**)
 
 ##Exercice 7
+Supprimer la table **tools** si elle existe.
 
-Exécuter le script billets.sql
+##Exercice 8
+Supprimer la table **librairies**
+
+##Exercice 9
+Supprimer la table **ide**
+
+##TP
+Créer la base **codex**. Y créer une table **clients** qui aura comme colonnes :
+
+| Colonnes          | Type    | Attributs                     |
+| ----------------- |: -----: | ----------------------------: |
+| id                | INT     | Auto-incrémenté, clé primaire |
+| lastName          | VARCHAR |                               |
+| firstName         | VARCHAR |                               |
+| birthDate         | DATE    |                               |
+| adress            | VARCHAR |                               |
+| firstPhoneNumber  | INT     |                               |
+| secondPhoneNumber | INT     |                               |
+| mail              | VARCHAR |                               |
